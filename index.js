@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import { asciiText } from './asciiText.js';
 import { mainMenuInput } from './menu.js';
 

@@ -9,7 +9,7 @@ import {
     changeBookValues,
     deleteBook,
 } from './booksUtils.js';
-import { startCode } from './main.js';
+import { startCode } from './index.js';
 
 function customSeparator(color, width) {
     return new inquirer.Separator(chalk[color](new Array(width).fill('─').join('')));
