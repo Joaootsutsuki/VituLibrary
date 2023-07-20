@@ -1,0 +1,25 @@
+{
+    "name": "vitulibrary",
+    "version": "1.0.0",
+    "description": "Programa criado pra trabalho de Programação I",
+    "main": "main.js",
+    "type": "module",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Joaootsutsuki/VituLibrary.git"
+    },
+    "bin": "./main.js",
+    "author": "João Vitor Vitosoaski",
+    "license": "MIT",
+    "dependencies": {
+        "chalk": "^5.3.0",
+        "figlet": "^1.6.0",
+        "gradient-string": "^2.0.2",
+        "inquirer": "^9.2.7",
+        "nanospinner": "^1.1.0",
+        "node": "^20.4.0"
+    },
+    "devDependencies": {
+        "prettier": "^3.0.0"
+    }
+}
