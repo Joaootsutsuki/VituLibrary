@@ -1,6 +1,6 @@
 {
     "name": "vitulibrary",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "description": "Programa criado pra trabalho de Programação I",
     "main": "index.js",
     "type": "module",
