@@ -1,6 +1,6 @@
 # Trabalho Avaliativo - Programação I
 
-&nbsp;&nbsp;&nbsp;&nbsp;Olá! Sou João Vitor Vitosoaski, aluno da turma de Informática 2022B do IFC Videira. Este é um trabalho avaliativo desenvolvido para a disciplina de Programação I, ministrada pelo professor Manasses Ribeiro.
+&nbsp;&nbsp;&nbsp;&nbsp;Olá! Sou João Vitor Vitosoaski, aluno da turma de Informática 2022B do IFC Videira. Este é um trabalho avaliativo desenvolvido em grupo com os meus amigos Edilio Junior e Julia Francisco para a disciplina de Programação I, ministrada pelo professor Manasses Ribeiro.
 
 ## Descrição do Projeto
 
