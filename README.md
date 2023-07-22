@@ -14,7 +14,7 @@
 
 2. Abra o terminal e execute o seguinte comando:
 
-    npx vitulibrary
+       npx vitulibrary
 
 &nbsp;&nbsp;&nbsp;&nbsp;Isso irá baixar e executar o projeto automaticamente.
 
